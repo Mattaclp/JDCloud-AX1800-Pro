@@ -42,7 +42,7 @@ env:
   DIY_P2_SH: JDCloud-AX1800-Pro/diy-part2.sh
   SSH_ACTIONS: false
   UPLOAD_FIRMWARE: true
-  UPLOAD_RELEASE: true
+  UPLOAD_RELEASE: false
   TZ: Asia/Shanghai
 
 jobs:
